@@ -1,2 +1,2 @@
 # Salario_economistas
-Trabalho feito em 2021 que faz uma regressão do salário dos economistas.
+Realizei uma regressão salarial para a profissão de economista com o objetivo de identificar os principais determinantes da renda nessa área. A análise buscou compreender quais fatores, como experiência, nível educacional e localização influenciam no salário desses profissionais. O estudo incluiu a aplicação de testes de heterocedasticidade para verificar a consistência da variância dos erros e garantir a validade dos resultados. Além disso, foram utilizados métodos robustos para corrigir possíveis violações dos pressupostos do modelo.
